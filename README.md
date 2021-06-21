@@ -30,4 +30,5 @@ La forma en la que calcula este modelo realiza el calculo es la siguiente:
 * el programa al obtener estos datos los guarda en unas variables.
 * cuando el programa se ejecuta en sus algoritmos se encuentran las variables que almacenan los datos digitados por el usuarioy en donde se determina la funcion que va hacer el programa, para que funcione el programa primero se utiliza la variable de rol en donde se determina que tipo de descuento se debe tener en cuenta, cuando se tiene listo el algoritmo busca las variables en donde se almacena el precio y la cantidad del producto deseado calculando el valor exacto de su compra, al finalizar el calculo el algoritmo imprime lo demas que dijito el usuario como nombre del producto, cedula, codigo y las demas variables calculadas para asi dar por finalizado el programa.
 
-El archivo de python tiene como nombre parcial.py
+### El archivo de python tiene como nombre parcial.py
+
